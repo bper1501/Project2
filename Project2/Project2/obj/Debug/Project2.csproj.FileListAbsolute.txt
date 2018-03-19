@@ -1,0 +1,6 @@
+c:\users\perbraa\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe.config
+c:\users\perbraa\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.exe
+c:\users\perbraa\documents\visual studio 2017\Projects\Project2\Project2\bin\Debug\Project2.pdb
+c:\users\perbraa\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.csprojResolveAssemblyReference.cache
+c:\users\perbraa\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.exe
+c:\users\perbraa\documents\visual studio 2017\Projects\Project2\Project2\obj\Debug\Project2.pdb
